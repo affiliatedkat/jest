@@ -27,8 +27,8 @@
     "jest-each": "^27.0.0-next.1",
     "jest-matcher-utils": "^27.0.0-next.1",
     "jest-message-util": "^27.0.0-next.1",
-    "jest-runtime": "^27.0.0-next.2",
-    "jest-snapshot": "^27.0.0-next.2",
+    "jest-runtime": "^29.0.0",
+    "jest-snapshot": "^29.5.0",
     "jest-util": "^27.0.0-next.1",
     "pretty-format": "^27.0.0-next.1",
     "throat": "^5.0.0"
