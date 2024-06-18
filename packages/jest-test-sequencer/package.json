@@ -17,7 +17,7 @@
     "@jest/test-result": "^27.0.0-next.1",
     "graceful-fs": "^4.2.4",
     "jest-haste-map": "^27.0.0-next.2",
-    "jest-runner": "^27.0.0-next.2",
+    "jest-runner": "^28.0.0",
     "jest-runtime": "^27.0.0-next.2"
   },
   "devDependencies": {
